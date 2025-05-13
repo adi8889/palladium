@@ -1,4 +1,4 @@
-[
+export const students = [
     {
         Timestamp: "2025/05/13 11:13:57 AM GMT+5:30",
         Name: "Jagadish C K",
@@ -95,4 +95,3 @@
         Bio: "STUDENTA highly enthusiastic and hard-working individual with astrong commitment to personal and professional growth. I’mthe type of person who, if asked a question and I don’t knowthe answer, will be honest about it—what sets me apart is mydrive to find the answer. Fueled by a strong passion fortechnology, I am always ready to learn and tackle newchallenges head-on.",
     },
 ];
-export {};

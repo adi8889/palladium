@@ -1,4 +1,4 @@
-[
+ export const students=[
   {
     Timestamp: "2025/05/13 11:13:57 AM GMT+5:30",
     Name: "Jagadish C K",
